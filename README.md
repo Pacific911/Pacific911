@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pacific911
 - 👀 I’m interested in learning more new things everyday
 - 🌱 I’m currently learning React js and Node js 
-- 💞️ I’m looking to collaborate on React js
+- 💞️ I’m looking to collaborate on React Js/Node Js
 - 📫 How to reach me on Linkedin https://www.linkedin.com/in/nduwumwe-pacific-29438621a/
 
 <!---
