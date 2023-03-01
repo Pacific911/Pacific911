@@ -17,12 +17,6 @@ Programmer  | Learner
 - 📫 How to reach me **nduwumwepacific**
 
 
-### Connect with me:
-
-
-[<img align="left" alt="Pacific NDUWUMWE | Twitter" width="22px" src="https://twitter.com/Pacificray3" />][twitter]
-[<img align="left" alt="Pacific NDUWUMWE | LinkedIn" width="22px" src="https://www.linkedin.com/in/nduwumwe-pacific-29438621a/" />][linkedin]
-
 <br />
 
 ### 🛠 &nbsp;Tech Stack
@@ -39,11 +33,7 @@ Programmer  | Learner
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 <br />
-### Profile Visitors 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=NoobMahbub.visitor-badge&left_color=blue&right_color=yellow)
-<br />
 
-[![Mahbub's github activity graph](https://activity-graph.heroku.app/graph?username=NoobMahbub&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/NoobMahbub/github-readme-activity-graph)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -61,8 +51,6 @@ FreeCode Camp Url: https://www.freecodecamp.org/certification/Pacific-250/javasc
 </p>
 
 
-[twitter]: https://twitter.com/Pacificray3
-[linkedin]: https://www.linkedin.com/in/nduwumwe-pacific-29438621a/
 
 
 
