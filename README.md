@@ -6,7 +6,7 @@ Programmer  | Learner
 ></h3>
 <p align="center"> <img src="dev-working.gif" alt="#"/> </p>
 
-- 🔭 I’m currently working on **in Andela program as a trainee**
+- 🔭 I’m currently working In **Andela Technical Program as a trainee**
 
 - 🌱 I’m currently learning **MERN**
 
@@ -44,8 +44,6 @@ Programmer  | Learner
 # 🏅 Certificates:
 <p>
 FreeCode Camp Url: https://www.freecodecamp.org/certification/Pacific-250/javascript-algorithms-and-data-structures
-<img width="494" align="center" src="#" alt="Pacific NDUWUMWE" />
-<img width="494" align="center" src="#" alt="Pacific NDUWUMWE" />
 </p>
 
 
