@@ -1,10 +1,10 @@
 <h1 align="center">Hi <img src="https://github.com/NoobMahbub/https://github.com/Pacific911/main/Wave.gif" height="55px" width="55px">, I'm Pacific NDUWUMWE</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
-Programmer | Content Creator | Learner
+Programmer  | Learner
 
 ?></h3>
-<p align="center"> <img src="dev-working.gif" alt="MahbubDev"/> </p>
+<p align="center"> <img src="dev-working.gif" alt="#"/> </p>
 
 - 🔭 I’m currently working on **in Andela program as a trainee**
 
@@ -22,7 +22,6 @@ Programmer | Content Creator | Learner
 
 [<img align="left" alt="Pacific NDUWUMWE | Twitter" width="22px" src="https://twitter.com/Pacificray3" />][twitter]
 [<img align="left" alt="Pacific NDUWUMWE | LinkedIn" width="22px" src="https://www.linkedin.com/in/nduwumwe-pacific-29438621a/" />][linkedin]
-<!-- [<img align="left" alt="Kazi Mahbubur Rahman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />
 
