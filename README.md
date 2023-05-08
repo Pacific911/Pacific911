@@ -46,7 +46,7 @@ Programmer  | Learner
 FreeCode Camp Url: https://www.freecodecamp.org/certification/Pacific-250/javascript-algorithms-and-data-structures
 </p>
 <p>
-  Project Management Cerificate: https://olympus.mygreatlearning.com/courses/66443/certificate
+  Project Management Certificate: https://olympus.mygreatlearning.com/courses/66443/certificate
 </p>
 
 
