@@ -6,7 +6,7 @@ Programmer  | Learner
 ></h3>
 <p align="center"> <img src="dev-working.gif" alt="#"/> </p>
 
-- 🔭 I’m currently working In **Andela Technical Program as a trainee**
+- 🔭 I’m currently working In **Internship(Appreticeship) at Andela Rwanda(ATLP)**
 
 - 🌱 I’m currently learning **MERN**
 
@@ -15,6 +15,7 @@ Programmer  | Learner
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **nduwumwepacific**
+- For more info look out to my Cv **https://read.cv/pacific**
 
 
 <br />
