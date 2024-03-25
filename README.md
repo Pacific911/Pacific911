@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/NoobMahbub/https://github.com/Pacific911/main/Wave.gif" height="55px" width="55px">, I'm Pacific NDUWUMWE</h1>
+<h1 align="center">Hi  👋 <img src="https://github.com/NoobMahbub/https://github.com/Pacific911/main/Wave.gif" height="55px" width="55px">, I'm Pacific NDUWUMWE</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
 Programmer  | Learner
@@ -6,7 +6,7 @@ Programmer  | Learner
 ></h3>
 <p align="center"> <img src="dev-working.gif" alt="#"/> </p>
 
-- 🔭 I’m currently working In **Internship(Appreticeship) at Andela Rwanda(ATLP)**
+- 🔭 I’m currently advancing more in Node Js**
 
 - 🌱 I’m currently learning **MERN**
 
@@ -15,7 +15,6 @@ Programmer  | Learner
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **nduwumwepacific**
-- For more info look out to my Cv **https://read.cv/pacific**
 
 
 <br />
@@ -48,6 +47,10 @@ FreeCode Camp Url: https://www.freecodecamp.org/certification/Pacific-250/javasc
 </p>
 <p>
   Project Management Certificate: https://olympus.mygreatlearning.com/courses/66443/certificate
+</p>
+
+<p> 
+  Software Engineer : https://www.linkedin.com/feed/update/urn:li:activity:7170445287583334400/
 </p>
 
 
