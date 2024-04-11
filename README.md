@@ -6,9 +6,9 @@ Programmer  | Learner
 ></h3>
 <p align="center"> <img src="dev-working.gif" alt="#"/> </p>
 
-- 🔭 I’m currently advancing more in Node Js**
+- 🔭 I’m currently advancing more in React Js**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently working on a project of Event Management System using QR Code
 
 - 👯 I’m looking to collaborate on **Open Source**
 
